@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sunilrazput
+- 👋 Hi, I’m @sunilkumar
 - 👀 I’m interested in ...music and coding.
-- 🌱 I’m currently learning ...c++ language.
+- 🌱 I’m currently learning ...c++ Language and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @razput_sunil_
 
